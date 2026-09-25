@@ -8,4 +8,4 @@ It shows the current temperature, humidity, and wind speed, with icons for diffe
 🔹 Responsive design for desktop and mobile
 
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8f811f48-89b1-4549-9144-3d305b65ed76" />
+<img width="500" height="650" alt="image" src="https://github.com/user-attachments/assets/8f811f48-89b1-4549-9144-3d305b65ed76" />
